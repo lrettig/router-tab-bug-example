@@ -1,0 +1,3 @@
+rootProject.name = 'RouterTabBugExample'
+
+include ':app'
